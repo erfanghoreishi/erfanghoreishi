@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Erfan 👋
 
-<!--
-**erfanghoreishi/erfanghoreishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B‌ackend developer building systems for scale, APIs, cloud infrastructure
+### 🔧 Experience
+- End-to-end web development & REST APIs
+- Cloud deployment (AWS · Docker · Kubernetes)
+- Linux administration
+- Asynchronous processing & event-driven architecture
+### 👀 Interested in
+Automation Tools, `APIs`, Event-Driven Architecture, Microservices
+Distributed Systems. Linux, Cloud Infrastructure, Algorithms
+### 🎓 Recently
+Graduated from the **University of Sussex** (MSc Advanced Computer Science)
+and looking for backend engineering positions in **London**
+### 🛠️ Stack
+|                    |                                                  |
+| ------------------ | ------------------------------------------------ |
+| **Languages**      | Python, PHP, JavaScript, Java, SQL               |
+| **Backend**        | Django, DRF, FastAPI, Laravel, Socket.IO, Celery |
+| **Testing**        | pytest, Selenium, TDD                            |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, GitHub Actions, Linux   |
+| **Databases**      | PostgreSQL, MongoDB, Redis                       |
+|                    |                                                  |
 
-Here are some ideas to get you started:
+📫 **ghoreishi.work@gmail.com** · 🌐 **[ghoreishi.dev](https://ghoreishi.dev)** · 📍 London, UK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
