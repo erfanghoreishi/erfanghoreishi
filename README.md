@@ -10,7 +10,7 @@ cloud infrastructure, developer tooling, and Computer Engineering.
 🌱 Currently learning more about Kubernetes, distributed infrastructure,
 scalable system design, and enterprise-scale backend engineering.
 
-🚀 Looking for backend development/software engineering opportunities.
+🚀 Looking for backend development, platform engineering opportunities.
 
 ⚙️ Python · Django · FastAPI · PHP · Docker · Kubernetes · AWS · Linux
 
