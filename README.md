@@ -1,27 +1,20 @@
-# Hi, I'm Erfan 👋
+👋 Hi, I'm Erfan
 
-B‌ackend developer building systems for scale, APIs, cloud infrastructure
-### 🔧 Experience
-- End-to-end web development & REST APIs
-- Cloud deployment (AWS · Docker · Kubernetes)
-- Linux administration
-- Asynchronous processing & event-driven architecture
-### 👀 Interested in
-Automation Tools, `APIs`, Event-Driven Architecture, Microservices
-Distributed Systems. Linux, Cloud Infrastructure, Algorithms
-### 🎓 Recently
-Graduated from the **University of Sussex** (MSc Advanced Computer Science)
-and looking for backend engineering positions in **London**
-### 🛠️ Stack
-|                    |                                                  |
-| ------------------ | ------------------------------------------------ |
-| **Languages**      | Python, PHP, JavaScript, Java, SQL               |
-| **Backend**        | Django, DRF, FastAPI, Laravel, Socket.IO, Celery |
-| **Testing**        | pytest, Selenium, TDD                            |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes, GitHub Actions, Linux   |
-| **Databases**      | PostgreSQL, MongoDB, Redis                       |
-|                    |                                                  |
+🔧 Backend developer building scalable systems and backend APIs.
+Experienced across the full backend development lifecycle; API design,
+testing, CI/CD, cloud deployment, and Linux administration.
 
-📫 **ghoreishi.work@gmail.com** · 🌐 **[ghoreishi.dev](https://ghoreishi.dev)** · 📍 London, UK
+👀 Interested in Algorithms, event-driven architecture, microservices, distributed systems,
+cloud infrastructure, developer tooling, and Computer Engineering.
 
+💞️ Open to collaborating on backend systems, platform engineering,
+automation tools, and practical apps.
 
+🌱 Currently learning more about Kubernetes, distributed infrastructure,
+scalable system design, and enterprise-scale backend engineering.
+
+🚀 Looking for backend development/software engineering opportunities.
+
+⚙️ Python · Django · FastAPI · PHP · Docker · Kubernetes · AWS · Linux
+
+📫 [ghoreishi.work@gmail.com](mailto:ghoreishi.work@gmail.com) · ghoreishi.dev
