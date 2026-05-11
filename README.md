@@ -7,9 +7,6 @@ testing, CI/CD, cloud deployment, and Linux administration.
 👀 Interested in Algorithms, event-driven architecture, microservices, distributed systems,
 cloud infrastructure, developer tooling, and Computer Engineering.
 
-💞️ Open to collaborating on backend systems, platform engineering,
-automation tools, and practical apps.
-
 🌱 Currently learning more about Kubernetes, distributed infrastructure,
 scalable system design, and enterprise-scale backend engineering.
 
@@ -17,4 +14,4 @@ scalable system design, and enterprise-scale backend engineering.
 
 ⚙️ Python · Django · FastAPI · PHP · Docker · Kubernetes · AWS · Linux
 
-📫 [ghoreishi.work@gmail.com](mailto:ghoreishi.work@gmail.com) · ghoreishi.dev
+📫 [ghoreishi.work@gmail.com](mailto:ghoreishi.work@gmail.com) · 🌐 [ghoreishi.dev](https://ghoreishi.dev) · 📍 London, UK
